@@ -1,4 +1,4 @@
-## AlzCare Flickr
+## AlzCare Labs Flickr
 - Simple Flickr Image Search with React & Redux
 
 ### Directions to run the app
